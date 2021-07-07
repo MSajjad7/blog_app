@@ -1,0 +1,12 @@
+  //npx json-server --watch data/db.json --port 8000 
+  this command to run the json file on serve
+
+
+  Using JSON Server ==> ImportantNote.txt
+Fetch Data with UseEffect from Json file ==>useFetch.js
+Handling fetch errors==>useFetch.js
+making custom hook==>useFetch.js is custom Hook
+react router
+router links
+useEffect Cleanup ==>useEffect.js (AbortController is function to cleanup useeffect)
+Route Paramters 
